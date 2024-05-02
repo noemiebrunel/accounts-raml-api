@@ -1,6 +1,6 @@
 {
   "envConfig": {
-    "envName": "master",
+    "envName": "main",
     "muleVersion": "4.4.0",
     "cloudHubAppName": "accounts-raml-api-noemie"
   }
