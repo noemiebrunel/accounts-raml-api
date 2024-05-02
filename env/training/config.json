@@ -1,7 +1,7 @@
 {
   "envConfig": {
     "envName": "Training",
-    "muleVersion": "4.4.0",
+    "muleVersion": "4.6.1",
     "cloudHubAppName": "accounts-raml-api-training"
   }
 }
