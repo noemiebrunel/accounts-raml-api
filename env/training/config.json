@@ -1,0 +1,7 @@
+{
+  "envConfig": {
+    "envName": "training",
+    "muleVersion": "4.4.0",
+    "cloudHubAppName": "accounts-raml-api-noemie"
+  }
+}
